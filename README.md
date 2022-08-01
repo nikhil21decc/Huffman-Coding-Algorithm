@@ -20,7 +20,7 @@ Encoded string is :
 
 Size of Encoded string : 18 bits. So we are able to compress our string from 36 bits to 18 bits.
 
-Decoded string is: 
+Decoded string is : 
 abacdcbad
 
 Size of Decoded string : 36 bits. 
