@@ -13,7 +13,7 @@ Huffman Codes are :
 a-> 11 ,
 b-> 10 ,
 d-> 00 ,
-c-> 01 ,
+c-> 01 .
 
 Encoded string is :
 111011010001101100
