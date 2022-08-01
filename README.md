@@ -9,10 +9,11 @@ abacdcbad
 Size of Original string : 9 bytes which is also equal to 36 bits.
 
 Huffman Codes are :
-a 11
-b 10
-d 00
-c 01
+
+a-> 11 ,
+b-> 10 ,
+d-> 00 ,
+c-> 01 ,
 
 Encoded string is :
 111011010001101100
