@@ -7,7 +7,7 @@ Example:
 Original string :
 abacdcbad 
 
-Size of Original string : 9 bytes which is also equal to 36 bits.
+Size of Original string : 9 bytes which is also equal to 72 bits.
 
 Huffman Codes are :
 
@@ -19,12 +19,12 @@ c-> 01 .
 Encoded string is :
 111011010001101100
 
-Size of Encoded string : 18 bits. So we are able to compress our string from 36 bits to 18 bits.
+Size of Encoded string : 18 bits. So we are able to compress our string from 72 bits to 18 bits.
 
 Decoded string is : 
 abacdcbad
 
-Size of Decoded string : 36 bits. 
+Size of Decoded string : 72 bits. 
 
 Time complexity: O(nlogn) where n is the number of unique characters.
 
